@@ -1,0 +1,28 @@
+segment_sources:
+  P5BD5FA4B:
+    type: origin_type
+    relation: translation
+    language: sa
+  P6FDBE138:
+    type: origin_type
+    relation: translation
+    language: zh
+  PD9113139:
+    type: origin_type
+    relation: translation
+    language: bo
+  P21F1FFA5:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  1b7c9e360ddb42da81eef3739cceb2e1:
+    P5BD5FA4B: 7b6db1c32d004ab3b5d9909b03a108e2
+    P6FDBE138: cecb6e5c234b4b25907e5ff2920a338b
+    PD9113139: 3c323c9587864fb39dcb728a8426391d
+    P21F1FFA5: 8a261d1867104f7b8748e304fb3a45ee
+  28e8cb88160e408e975bbf878fc05821:
+    P5BD5FA4B: 04daea23345e4e5f859b3c3a85adcc07
+    P6FDBE138: 1b0911d27a1b46b880012ec3ab35e359
+    PD9113139: a838985d4f404939b4702269fc11558e
+    P21F1FFA5: 3bced462ea9f42fa91e6780e37e37ccc
